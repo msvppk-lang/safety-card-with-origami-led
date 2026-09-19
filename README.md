@@ -13,7 +13,7 @@
 
 Working  
       The safety card works by using a small LED light and a switch to indicate a safety alert. When the switch is pressed, the circuit is completed and the LED glows, giving a clear visual indication. The card can be used to create awareness about safety precautions and emergency situations.
-      ![simulation](simulation.jpeg)
+      ![circuit](circuit.jpeg)
    
 Procedure  
  1\. First, prepare a chart paper or thick paper as the base for the safety card.  
